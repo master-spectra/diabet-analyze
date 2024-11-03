@@ -6,19 +6,18 @@
 ## Структура проекта
 
 project/
-├── data/
-│   └── diabetes_dataset.csv  # Исходный датасет
-│
-├── pic/  # Директория с визуализациями
-│   ├── target_distribution.png
-│   ├── missing_values.png
-│   ├── correlation_matrix.png
-│   ├── feature_importance.png
-│   └── ...
-│
-├── main.py  # Основной скрипт
-└── README.md  # Документация проекта
+  data/
+    diabetes_dataset.csv  # Исходный датасет
 
+  pic/  # Директория с визуализациями
+    target_distribution.png
+    missing_values.png
+    correlation_matrix.png
+    feature_importance.png
+    ...
+
+  main.py  # Основной скрипт
+  README.md  # Документация проекта
 
 ## Используемые данные
 Датасет содержит следующие признаки:
